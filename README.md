@@ -2,7 +2,7 @@
 
 **COMPANY**: CODTECH IT SOLUTIONS
 
-**NAME**: Rajnish kumar
+**NAME**:  Rajnish kumar
 
 **INTERN ID**: CT08DK929
 
